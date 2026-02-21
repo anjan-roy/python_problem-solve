@@ -8,3 +8,4 @@ def reverse_string(s):
 print(reverse_string("he"))
 print(reverse_string("kolkata"))
 print(reverse_string("pune"))
+print(reverse_string("welcome"))
