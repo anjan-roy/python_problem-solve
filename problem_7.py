@@ -8,3 +8,4 @@ def is_prime(n):
             return False
     return True
 print(is_prime(3))
+print(is_prime(7))
