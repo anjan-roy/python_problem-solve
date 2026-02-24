@@ -7,3 +7,4 @@ def gcd(a, b):
 def lcm(a, b):
     return (a * b) // gcd(a, b)
 print(lcm(34,12))
+print(lcm(3,9))
