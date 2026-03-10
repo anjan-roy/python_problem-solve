@@ -6,3 +6,4 @@ def is_palindrome(s):
 
 print(is_palindrome("madam"))  # True
 print(is_palindrome("sir"))  # Flase
+print(is_palindrome("python"))  # Flase
