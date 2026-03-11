@@ -9,5 +9,5 @@ class Person:
         print("I am", self.age, "years old")
 
 
-p1 = Person("Nic", 25)
+p1 = Person("Nick", 25)
 p1.introduce()
