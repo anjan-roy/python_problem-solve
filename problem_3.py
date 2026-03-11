@@ -9,3 +9,4 @@ def factorial(n):
 
 print(factorial(5))  # 120
 print(factorial(9))  # 362880
+print(factorial(12))  # 479001600
