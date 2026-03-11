@@ -2,10 +2,10 @@ class Animal:
     def speak(self):
         print("Animal makes sound")
 
-class Dog(Animal):
+class dog(Animal):
 
     def speak(self):
         print("Dog barks")
 
-d = Dog()
+d = dog()
 d.speak()
