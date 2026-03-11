@@ -1,0 +1,22 @@
+total 20
+-rw-r--r-- 1 Anjan 197121 311 Feb 27 18:02 problem_1.py
+-rw-r--r-- 1 Anjan 197121 112 Feb 19 18:27 problem_10.py
+-rw-r--r-- 1 Anjan 197121 193 Feb 19 18:27 problem_11.py
+-rw-r--r-- 1 Anjan 197121 143 Feb 19 18:30 problem_12.py
+-rw-r--r-- 1 Anjan 197121 118 Feb 24 18:34 problem_13.py
+-rw-r--r-- 1 Anjan 197121 192 Feb 20 19:05 problem_14.py
+-rw-r--r-- 1 Anjan 197121   0 Feb 24 18:34 problem_15.py
+-rw-r--r-- 1 Anjan 197121 192 Feb 27 18:02 problem_16.py
+-rw-r--r-- 1 Anjan 197121  90 Feb 24 18:34 problem_17.py
+-rw-r--r-- 1 Anjan 197121 117 Feb 24 18:34 problem_18.py
+-rw-r--r-- 1 Anjan 197121 129 Feb 27 18:02 problem_19.py
+-rw-r--r-- 1 Anjan 197121 215 Feb 24 18:34 problem_2.py
+-rw-r--r-- 1 Anjan 197121 177 Feb 27 18:02 problem_20.py
+-rw-r--r-- 1 Anjan 197121 140 Feb 27 18:02 problem_21.py
+-rw-r--r-- 1 Anjan 197121 231 Feb 24 18:34 problem_3.py
+-rw-r--r-- 1 Anjan 197121 183 Feb 17 19:29 problem_4.py
+-rw-r--r-- 1 Anjan 197121   2 Feb 24 18:34 problem_5.py
+-rw-r--r-- 1 Anjan 197121 180 Feb 18 18:41 problem_6.py
+-rw-r--r-- 1 Anjan 197121 242 Feb 24 18:34 problem_7.py
+-rw-r--r-- 1 Anjan 197121 159 Feb 18 18:44 problem_8.py
+-rw-r--r-- 1 Anjan 197121 121 Feb 19 18:17 problem_9.py
